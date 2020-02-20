@@ -7,5 +7,7 @@ count_2 = count_2 + 1
 
 this project is not complete
 
-if you sea this and have question send email : alirs1997@gmail.com
+if you see this and have question send email : alirs1997@gmail.com
+
+bye (;
 
